@@ -1,0 +1,13 @@
+:root {
+  --green: #0DB760;
+  --red: #FF0000;
+  --pink: #FE8B75;
+  --black: #000000;
+  --white: #FFFFFF;
+
+  --font-inter: 'Inter', sans-serif;
+
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+}
